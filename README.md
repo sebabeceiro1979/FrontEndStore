@@ -1,2 +1,2 @@
 # FrontEndStore
-FrontEndStore es un proyectos muy sencillo, pero 100% practico en donde pude practicar HTML, CSS, FLEXBOX, etc., sin la necesidad de usar ningun framework
+FrontEndStore it's a 100% practical project where I could practice HTML, CSS, FLEXBOX, and others like Normalize.
